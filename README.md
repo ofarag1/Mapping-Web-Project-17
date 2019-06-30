@@ -7,5 +7,3 @@
 Leaflet map using earthquakes data based on their longitude and latitude.
 
 Map URL: https://ofarag1.github.io/Mapping-Web-Project-17/.
-
-Map Image: (Images/USGS Map.png) 
